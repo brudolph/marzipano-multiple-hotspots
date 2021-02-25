@@ -1,0 +1,2 @@
+# marzipano-multiple-hotspots
+ 
